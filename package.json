@@ -12,6 +12,7 @@
   "dependencies": {
     "ask-sdk-core": "^2.10.2",
     "ask-sdk-express-adapter": "^2.10.2",
+    "axios": "^1.1.3",
     "express": "^4.17.1"
   }
 }
